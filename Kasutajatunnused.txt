@@ -1,0 +1,6 @@
+0000, sysadmin, admin, jah, admin,
+0001, Kaarel, user, jah, kaarel,
+0002, Toomas, user, ei, null,
+0003, Liisa, user, jah, null,
+0006, Karl, user, jah, null, 
+
